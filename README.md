@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+![snake gif](https://github.com/Bunny-777/bunny-777/blob/output/github-snake-dark.svg)
 <!--
 **Bunny-777/Bunny-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
