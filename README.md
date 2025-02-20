@@ -1,11 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Bunny</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack developer and Programmer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExendvNms2cHIxYnpjbDlqbGJhc21jcmdodm5oaHdueXY5NWFobWY5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123t0dxx3bQdCE/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunny-777&label=Profile%20views&color=0e75b6&style=flat" alt="bunny-777" /> </p>
 
-![death note nate river GIF](https://github.com/user-attachments/assets/2dc295fe-025b-452d-b32e-ce0a16d8a8fb)
-
-- 🔭 I’m currently working on **Multiplayer Chess**
+<div>
+  - 🔭 I’m currently working on **Multiplayer Chess**
 
 - 🌱 I’m currently learning **Next js**
 
@@ -16,6 +18,7 @@
 - 📄 Know about my experiences [https://bunny-777.github.io/Portfolio-website/](https://bunny-777.github.io/Portfolio-website/)
 
 - ⚡ Fun fact **I like apples**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
