@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunny-777&label=Profile%20views&color=0e75b6&style=flat" alt="bunny-777" /> </p>
 
+![death note nate river GIF](https://github.com/user-attachments/assets/2dc295fe-025b-452d-b32e-ce0a16d8a8fb)
 
 - 🔭 I’m currently working on **Multiplayer Chess**
 
