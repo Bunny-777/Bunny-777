@@ -72,7 +72,7 @@ latency of less than 150ms
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bunny777-blue?logo=linkedin)](https://www.linkedin.com/in/bunny777/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-bunny77-orange?logo=leetcode)](https://leetcode.com/u/bunny77/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-bunny77-orange?logo=leetcode)](https://leetcode.com/u/bunny777/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-bunny777-red?logo=codeforces)](https://codeforces.com/profile/bunny777) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-bunny777-brown?logo=codechef)](https://www.codechef.com/users/bunny777) 
 [![X](https://img.shields.io/badge/X-@bunny__777-black?logo=x)](https://x.com/bunny__777) 
