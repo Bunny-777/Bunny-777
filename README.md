@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN201NGhlaGlrOXd6Y3p6ZG5ydWpnOGh2MHRncHhiZjRsM21yeXg5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/8nRxogx9tgvCzuSHLl/giphy.gif" width="350" />
 </p>
+
 <h1 align="center">Bunny</h1>
 <h3 align="center">AI Engineer and Full stack developer</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/bunny777/">LinkedIn</a>
   &nbsp;·&nbsp;
