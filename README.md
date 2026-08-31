@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bunny</h1>
-<h3 align="center">AI Engineer and Full stack developer</h3>
+<h3 align="center">Founding SDE @Eve healthcare</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/bunny777/">LinkedIn</a>
   &nbsp;·&nbsp;
